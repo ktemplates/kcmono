@@ -16,6 +16,6 @@
   "devDependencies": {
     "@kcinternal/commandline": "0.10.1",
     "@kcinternal/configuration": "0.6.11",
-    "@types/graphviz": "0.0.32"
+    "@types/graphviz": "0.0.33"
   }
 }
