@@ -28,7 +28,7 @@
     "@kcinternal/commandline": "0.10.2",
     "@kcinternal/configuration": "0.6.12",
     "@types/jest": "26.0.24",
-    "@types/node": "16.4.7",
+    "@types/node": "16.4.13",
     "@typescript-eslint/eslint-plugin": "4.29.0",
     "@typescript-eslint/parser": "4.29.0",
     "eslint": "7.31.0",
